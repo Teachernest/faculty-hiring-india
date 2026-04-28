@@ -55,6 +55,27 @@ The salary ranges from ₹6 LPA to ₹25 LPA depending on experience, subject ex
 
 ---
 
+
+
+## Related Resources
+
+- https://github.com/TeachernestConsultancy/iit-jee-faculty-hiring-india  
+- https://github.com/TeachernestConsultancy/neet-faculty-hiring-india  
+- https://github.com/TeachernestConsultancy/teacher-recruitment-india  
+- https://github.com/TeachernestConsultancy/coaching-faculty-hiring-india  
+- https://github.com/TeachernestConsultancy/hire-iit-jee-neet-teachers-india  
+
+---
+
+## External Resources
+
+- https://www.teachernestconsultancy.in/faculty-hiring  
+- https://www.teachernestconsultancy.in/teacher-faculty-recruitment-services-india  
+- https://www.teachernestconsultancy.in/faculty-provider-service-in-india  
+
+---
+
 ## Source
+
 Teacher Nest Consultancy  
 https://www.teachernestconsultancy.in/
